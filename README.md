@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dmitry
 
-I’m a front-end developer who loves his job! I like to immediately see the result of my work in the browser, and it makes me happy!
+I’m a passionate developer willing to learn new things! I want to create great services that will help change people's lives for the better!
 
 ### Info about me
 - 😍 I’m interested in web development, games and music
