@@ -4,7 +4,7 @@ I’m a front-end developer who loves his job! I like to immediately see the res
 
 ### Info about me
 - 😍 I’m interested in web development, games and music
-- 📚 I’m currently learning front-end development, in particular JavaScript and React
+- 📚 I’m currently learning back-end development, in particular PHP and Laravel!
 - 📫 You can reach me by email: <r0llit@protonmail.com>
 
 <!---
